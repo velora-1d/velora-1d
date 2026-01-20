@@ -1,12 +1,12 @@
 <div align="center">
-    <img src="./banner.png" alt="Mahin Utsman Nawawi Banner" width="100%">
+    <img src="./banner.png" alt="Mahin Utsman Nawawi, S.H Banner" width="100%">
 </div>
 
 <br>
 
 <div align="center">
 
-# Hi there, I'm Mahin Utsman Nawawi (Pak Hakim) 👋
+# Hi there, I'm Mahin Utsman Nawawi, S.H (Pak Hakim) 👋
 
 ### Fullstack Developer & Data Analyst from Bandung, Indonesia 🇮🇩
 
@@ -73,4 +73,3 @@ ISP Management System built with Laravel. Manage customers, billing, and tickets
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=velora-1d&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 </div>
- 
